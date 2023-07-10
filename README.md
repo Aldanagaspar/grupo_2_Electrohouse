@@ -29,7 +29,7 @@ INTEGRANTES DEL EQUIPO:
 - Leonel Jose Maria Mamani
         Tengo 23 años estudiante de Ingenieria Informatica, vivo en El Carmen, Jujuy
 
--Maximiliano Antenor 
+- Maximiliano Antenor 
         21 años soy electricista y realizó curso de inglés y de programación
 
 REFERENCIAS:
