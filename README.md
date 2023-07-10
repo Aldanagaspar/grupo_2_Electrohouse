@@ -25,6 +25,12 @@ INTEGRANTES DEL EQUIPO:
 
 - Yamila Blas
         Tengo 17 años, estoy en mi último año de secundaria, junto con éste curso también realizó el curso de inglés.
+    
+- Leonel Jose Maria Mamani
+        Tengo 23 años estudiante de Ingenieria Informatica, vivo en El Carmen, Jujuy
+
+-Maximiliano Antenor 
+        21 años soy electricista y realizó curso de inglés y de programación
 
 REFERENCIAS:
         https://www.cetrogar.com.ar/
